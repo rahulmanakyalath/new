@@ -1,0 +1,6 @@
+				 			RESUME
+
+NAME	:	Rahul Kumar Ms
+AGE	:	22
+SEX	:	Male
+
